@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://koncian.github.io/sebat/sitemap.xml
